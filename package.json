@@ -1,0 +1,14 @@
+{
+  "name": "nitm-fd-repro",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"both lines should say success:\" && node nonitm && node nitm"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nitm": "^1.0.3"
+  }
+}
